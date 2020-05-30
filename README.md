@@ -19,6 +19,7 @@ Open a linux/mac terminal and run the following command.
 ```
 $ git clone https://github.com/ferrumnet/unifyre-wallet-export-to-metamask.git
 $ cd unifyre-wallet-export-to-metamask
+$ npm i
 ```
 
 ## Second run the utility
